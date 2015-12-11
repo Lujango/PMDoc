@@ -678,25 +678,25 @@
   position:absolute;
   left:541px;
   top:626px;
-  width:60px;
-  height:40px;
+  width:43px;
+  height:28px;
   font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:28px;
+  font-size:20px;
 }
 #u54_img {
   position:absolute;
   left:-5px;
   top:-5px;
-  width:70px;
-  height:50px;
+  width:53px;
+  height:38px;
 }
 #u55 {
   position:absolute;
   left:0px;
   top:0px;
-  width:60px;
+  width:43px;
   white-space:nowrap;
 }
 #u56 {
@@ -2246,4 +2246,26 @@
   top:0px;
   width:496px;
   white-space:nowrap;
+}
+#u182 {
+  position:absolute;
+  left:485px;
+  top:50px;
+  width:61px;
+  height:37px;
+  font-size:28px;
+}
+#u182_img {
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:71px;
+  height:47px;
+}
+#u183 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:61px;
+  word-wrap:break-word;
 }
